@@ -1,0 +1,6 @@
+node_modules
+*.mp4
+*.mov
+yarn.lock
+package-lock.json
+etags.json
